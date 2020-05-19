@@ -1,0 +1,26 @@
+{
+    "locations": [
+        {
+            "location": {
+                "id": 1,
+                "name": "Удмуртия",
+                "site_id": 1,
+                "location_id": null,
+                "back": "1_4dad5e18-6daa-4164-8306-00fa597f874d.PNG",
+                "location_type": 2,
+                "location_view_type": 3,
+                "latitude": "",
+                "longitude": ""
+            },
+            "parents": [
+                {
+                    "id": 1,
+                    "name": "Удмуртия",
+                    "location_id": null,
+                    "site_id": 1
+                }
+            ]
+        }
+    ],
+    "devices": []
+}

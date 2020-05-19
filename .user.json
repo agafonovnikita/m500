@@ -1,0 +1,25 @@
+{
+    "salt": "*",
+    "jwtSecret": "*",
+    "polling": true,
+    "emailnotify": false,
+    "ID": "id",
+    "DB": "POSTGRESQL",
+    "DBHOST": "*",
+    "DBNAME": "m500",
+    "DBUSER": "postgres",
+    "DBPASSWORD": "Password2",
+    "auth": false,
+    "entities": [
+        "m500",
+        "auth",
+        "m500_history",
+        "m500_cfgs",
+        "m500_commands"
+    ],
+    "port": "4210",
+    "origin": [
+        "http://localhost:4200",
+    ],
+    "DBLOG": false
+}

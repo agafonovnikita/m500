@@ -1,0 +1,5 @@
+**/node_modules/**
+uploads/files/*.jpg
+uploads/files/*.png
+uploads/files/*.jpeg
+uploads/**/*.xlsx

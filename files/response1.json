@@ -1,0 +1,65 @@
+{
+    "locations": [],
+    "devices": [
+        {
+            "id": 1,
+            "name": "001",
+            "model_id": 2,
+            "device_type": 2,
+            "address": "57",
+            "location_id": 1,
+            "guid": "SU410",
+            "latitude": "",
+            "longitude": "",
+            "template_id": 1,
+            "alias_template_id": 3,
+            "server_alias_template_id": 3,
+            "modelName": "ИРЗ500"
+        },
+        {
+            "id": 5,
+            "name": "001-aw",
+            "model_id": 2,
+            "device_type": 2,
+            "address": "61",
+            "location_id": 5,
+            "guid": "SU410",
+            "latitude": "",
+            "longitude": "",
+            "template_id": 1,
+            "alias_template_id": 3,
+            "server_alias_template_id": 3,
+            "modelName": "ИРЗ500"
+        },
+        {
+            "id": 7,
+            "name": "001 -- 2",
+            "model_id": 2,
+            "device_type": 2,
+            "address": "63",
+            "location_id": 5,
+            "guid": "SU410",
+            "latitude": "55.55",
+            "longitude": "55.55",
+            "template_id": 1,
+            "alias_template_id": 3,
+            "server_alias_template_id": 3,
+            "modelName": "ИРЗ500"
+        },
+        {
+            "id": 6,
+            "name": "001-002",
+            "model_id": 2,
+            "device_type": 2,
+            "address": "62",
+            "location_id": 5,
+            "guid": "SU410",
+            "latitude": "55.55",
+            "longitude": "55.56",
+            "template_id": 1,
+            "alias_template_id": 3,
+            "server_alias_template_id": 3,
+            "modelName": "ИРЗ500"
+        }
+    ]
+}

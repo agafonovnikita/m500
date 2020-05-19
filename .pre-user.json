@@ -1,0 +1,25 @@
+{
+    "salt": "*SALT*",
+    "jwtSecret": "*JWT_SECRET*",
+    "polling": true,
+    "emailnotify": false,
+    "ID": "id",
+    "DB": "POSTGRESQL",
+    "DBHOST": "*DB_HOST*",
+    "DBNAME": "*DB_NAME*",
+    "DBUSER": "*DB_USER*",
+    "DBPASSWORD": "*DB_PASSWROD*",
+    "auth": false,
+    "entities": [
+        "m500",
+        "auth",
+        "m500_history",
+        "m500_cfgs",
+        "m500_commands"
+    ],
+    "port": "*SERVER_PORT*",
+    "origin": [
+        "*WEB_DOMAIN*"
+    ],
+    "DBLOG": false
+}
